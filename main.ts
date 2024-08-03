@@ -1,4 +1,4 @@
-namespace Screenmagic {
+ namespace Screenmagic {
     /**
      * Addrees LEDs Linearly row first
      */
